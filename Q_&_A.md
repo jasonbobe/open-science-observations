@@ -3,7 +3,7 @@ Here's a few guiding questions to field feedback about what a completely open sc
 
 **Setup**: Imagine in 50 years, open science is the dominant paradigm. What does the *world* look like because of this?
 
-I want to ask questions about *what could be* rather than *what will be* to frame a more general and global understanding of *the future of sciene we want to see* .
+I want to ask questions about *what could be* rather than *what will be* to frame a more general and global understanding of *the future of science we want to see* .
 
 ## Questions
 
