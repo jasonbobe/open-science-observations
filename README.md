@@ -1,11 +1,11 @@
-# Open Science Future
+# Open Science observations
 
 ![](assets/img/under-a-paywall.png)
 
 ## About
-The Open Science Future is a book and web based feature that attempts to catalog some of the artifacts of the dominant cultural paradigms in science. Some examples include the cultures around academic publishing, academic funding, data sharing, diversity and inclusivity in science, etc. The project is a sort of "capstone" of my Mozilla Science Fellowship to sum up the current perspectives on science and what aspects of science could be improved, how those aspects might be improved, and why those aspects are broken.
+<!--The Open Science Observations is a book and web based feature that attempts to catalog some of the artifacts of the dominant cultural paradigms in science. Some examples include the cultures around academic publishing, academic funding, data sharing, diversity and inclusivity in science, etc. The project is a sort of "capstone" of my Mozilla Science Fellowship to sum up the current perspectives on science and what aspects of science could be improved, how those aspects might be improved, and why those aspects are broken.-->
 
-The content of the Open Science Future is in part about what I've come to learn about science/open science over the last year, but also about collecting the thoughts, feelings, and facts about the world of science as we know it from the community. I intend to [crowdsource these thoughts, feelings, and facts in an open survey](http://goo.gl/forms/oE720zs7m56sScl33) to incorporate as much of the community's views as possible.
+The content of the Open Science Observations is about what I've come to learn about science/open science over the last year, and about collecting the thoughts, feelings, and facts about the world of science as we know it. I intend to [crowdsource these thoughts, feelings, and facts in an open survey](http://goo.gl/forms/oE720zs7m56sScl33) to incorporate as much of the community's views as possible.
 
 
 ## Contributing
